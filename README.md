@@ -1,80 +1,242 @@
-<h1 align="center">🛰️ divyanshi // mission control</h1>
+# DIVYANSHI VASHISTHA
 
-<p align="center">
-building systems where milliseconds matter
-</p>
+> I have a tendency to turn thoughts into repositories.
 
-<p align="center">
-<code>real-time systems</code> • <code>health infra</code> • <code>emergency response</code>
-</p>
+Computer science student. Mostly building around **AI systems, backend engineering, infrastructure, and distributed systems**.
+
+I usually get more interested in what's happening underneath the thing than the thing itself.
 
 ---
 
-## 🧭 active systems
+```text
+$ cat currently
+```
 
-<table>
-<tr>
-<td width="33%">
+### CORTEX
 
-### 🚨 ResQNet  
-real-time emergency routing  
-→ priority dispatch  
-→ low latency  
-→ fault-tolerant design  
+**Persistent context for AI systems.**
 
-</td>
+Because switching models shouldn't mean starting over.
 
-<td width="33%">
+Building a local-first layer for projects, context, memory, and continuity across AI tools.
 
-### 🧠 VPRD  
-voice risk detection  
-→ signal pipeline  
-→ early diagnosis  
-→ real-time inference  
-
-</td>
-
-<td width="33%">
-
-### 🧴 SkinSoul  
-personalized diagnostics  
-→ user-specific analysis  
-→ adaptive recommendations  
-
-</td>
-</tr>
-</table>
+`context` `memory` `agents` `local-first`
 
 ---
 
-## ⚙️ system capabilities
-latency optimization █████████░░
-fault tolerance ████████░░░
-distributed systems ███████░░░░
-real-time pipelines █████████░░
-observability ███████░░░░
+### HELIOS
+
+**Infrastructure for evaluating AI agents.**
+
+I started with a pretty simple question:
+
+**how do you actually know an agent worked?**
+
+The current answer I'm exploring is:
+
+`record → replay → compare → explain`
+
+Working on execution, tracing, evaluation, and the infrastructure around agent behaviour.
+
+`agent-infra` `evaluation` `tracing` `execution`
 
 ---
 
-## 🧠 how i think
+```text
+$ cat things-i-cant-keep-out-of-my-head
+```
 
-```diff
-- features don't matter if the system fails
-+ reliability > everything
+AI systems that can actually remember context.
 
-- speed is optional
-+ latency is critical
+How do you evaluate an agent when
+**"it gave the right answer"** isn't enough?
 
-- apps serve users
-+ systems coordinate reality
-🛰️ live operations
-[ResQNet]    → testing failure scenarios (node crashes)
-             → reducing routing latency
-             → building event-driven flow
+What happens when the network disappears?
 
-[Systems]    → queue-based architectures
-             → real-time processing models
-             📡 mission directive
+How much infrastructure does an AI system actually need before the model becomes the easy part?
 
-build systems where failure isn't an option
-<p align="center">
+---
+
+```text
+$ cat things-i-believe
+```
+
+**models are replaceable.
+context shouldn't be.**
+
+**an agent saying "done" isn't evidence.**
+
+**if the interesting part is hidden,
+build the tooling that exposes it.**
+
+**build it, break it, figure out why.**
+
+---
+
+```text
+$ ls ./projects
+```
+
+### `01 / CORTEX`
+
+Persistent context infrastructure for AI agents and tools.
+
+Projects are the durable unit. Conversations are temporary.
+
+**→ [repository]([https://github.com/divsvash/](https://github.com/divsvash/context-layer-temp_name-))**
+
+---
+
+### `02 / HELIOS`
+
+An execution and evaluation layer for AI agents.
+
+Built around:
+
+`record → replay → compare → explain`
+
+Trying to make agent engineering more measurable.
+
+**→ [repository]((https://github.com/divsvash/helios))**
+
+---
+
+### `03 / KANWAR SAHAYATA`
+
+Built for the Kanwar Yatra, where connectivity isn't guaranteed and the person using the app shouldn't need to understand the technology behind it.
+
+Offline-first. Hindi-first. Built around pilgrims, camps, and the people running the operation behind them.
+
+**→ [repository]((https://github.com/divsvash/kanwar-sahayta-backend))**
+
+---
+
+### `04 / RESQNET`
+
+A real-time emergency coordination system designed to reduce the gap between someone needing help and someone able to provide it.
+
+**→ [repository]((https://github.com/divsvash/ResQNet))**
+
+---
+
+### `05 / CIVICPULSE`
+
+An AI-powered civic intelligence platform for making civic issues easier to report, understand, and act on.
+
+**→ [repository]((https://github.com/divsvash/CivicPulse))**
+
+---
+
+### `06 / MESHCHAIN`
+
+An experiment with offline communication, BLE mesh networking, and decentralized systems.
+
+Started with a simple question:
+
+**what happens when the internet disappears?**
+
+**→ [repository]((https://github.com/divsvash/Mesh-Chain))**
+
+---
+
+```text
+$ ls ./experiments
+```
+
+Not everything needs to become a startup.
+
+Some things exist because I wanted to know:
+
+```text
+could this work?
+```
+
+So I built it.
+
+Some turn into projects.
+
+Some turn into research.
+
+Some teach me exactly why I shouldn't build the thing that way again.
+
+---
+
+```text
+$ ls ./stack
+```
+
+### LANGUAGES
+
+`Python` `Java` `C++` `C` `TypeScript` `JavaScript`
+
+`Rust` - learning
+
+### AI / SYSTEMS
+
+`LLMs` `AI Agents` `RAG` `MCP` `NLP`
+
+`Agent Evaluation` `Orchestration` `Context Systems` `Tracing`
+
+### BACKEND
+
+`Node.js` `Express` `PostgreSQL` `MySQL` `MongoDB`
+
+`Redis` `Prisma` `Docker`
+
+### FRONTEND
+
+`React` `Next.js` `Tailwind CSS`
+
+### CLOUD / DATA
+
+`Oracle Cloud` `Snowflake` `Vercel`
+
+---
+
+```text
+$ cat ./currently-learning
+```
+
+`Rust`
+
+`distributed systems`
+
+`AI infrastructure`
+
+`agent evaluation`
+
+`systems design`
+
+---
+
+```text
+$ git log --oneline
+```
+
+`build something`
+
+`break something`
+
+`figure out why`
+
+`build it properly`
+
+`repeat`
+
+---
+
+```text
+$ ./run curiosity
+```
+
+> no results found.
+
+> try building it yourself.
+
+---
+
+### FIND ME
+
+[GitHub](https://github.com/divsvash) · [LinkedIn](https://www.linkedin.com/in/divyanshi-vashistha-4a0266274/) · [Email](mailto:divyanshivashistha@gmail.com)
+
+<sub>last updated when the next obsession ships.</sub>
