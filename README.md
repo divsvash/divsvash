@@ -239,5 +239,6 @@ $ ./run curiosity
 
 [GitHub](https://github.com/divsvash) · [LinkedIn](https://www.linkedin.com/in/divyanshi-vashistha-4a0266274/) · [Email](mailto:divyanshivashistha@gmail.com)
 
-[Profile Views](https://github-profile-counter-ten.vercel.app/api/divsvash)
+![Profile Views](https://github-profile-counter-ten.vercel.app/api/divsvash)
+
 <sub>last updated when the next obsession ships.</sub>
