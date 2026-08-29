@@ -91,7 +91,7 @@ me and my two personalities
 
 **reading**
 
-`the count of mount cristo`
+`the count of monte cristo`
 
 <img src="./assets/current-book.jpg" width="180">
 
