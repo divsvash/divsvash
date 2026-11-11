@@ -4,4 +4,4 @@ i get stuck on things when i can't figure out how they work, and end up spiralli
 
 lately that's been AI agents, memory, distributed systems, and building tools to understand the things we're building.
 
-[divs.space] (https://www.divs.space/)
+https://www.divs.space/
